@@ -3,7 +3,6 @@
   "name": "omnifood-deslol",
   "version": "1.0.0",
   "description": "A site built for learning purposes",
-  "main": "script.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel run build index.html"
