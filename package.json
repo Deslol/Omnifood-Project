@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "omnifood-deslol",
+  "version": "1.0.0",
+  "description": "A site built for learning purposes",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel run build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deslol/Omnifood-Project.git"
+  },
+  "author": "Kwun Ming Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deslol/Omnifood-Project/issues"
+  },
+  "homepage": "https://github.com/deslol/Omnifood-Project#readme",
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.5.0",
+    "@parcel/transformer-webmanifest": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}
